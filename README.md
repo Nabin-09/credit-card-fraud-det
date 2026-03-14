@@ -137,7 +137,9 @@ The system prioritizes **Recall** and **ROC-AUC** because false negatives (misse
 3. 
 **Execution**: Run `python main.py` to initiate preprocessing, SMOTE balancing, model training, and evaluation.
 
+### Dataset  : 
 
+[Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 
 ---
 
