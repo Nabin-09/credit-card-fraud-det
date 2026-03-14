@@ -125,16 +125,14 @@ The system prioritizes **Recall** and **ROC-AUC** because false negatives (misse
 ---
 
 ### Setup and Usage
-
-1. 
+ 
 **Requirements**: Install dependencies using `pip install -r requirements.txt`.
 
 
-2. 
 **Dataset**: Download the Kaggle Credit Card Fraud Detection dataset and place it in the `data/` folder.
 
 
-3. 
+
 **Execution**: Run `python main.py` to initiate preprocessing, SMOTE balancing, model training, and evaluation.
 
 ### Dataset  : 
